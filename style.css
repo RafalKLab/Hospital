@@ -1,0 +1,95 @@
+.container
+{
+    text-align: center;
+    align-items: center;
+    width: 370px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 15px;
+    border: 3px solid black;
+}
+
+.container img
+{
+    width: 300px;
+}
+
+.option
+{
+    display: block;
+    width: 300px;
+    height: 100px;
+    margin: 15px auto;
+    background-color: white;
+    font-size: 30px;
+    line-height: 100px;
+    border: 3px solid black;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+   
+}
+
+.option:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.alert
+{
+    color: red;
+}
+
+.content
+{
+    text-align: center;
+    align-items: center;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    border: 2px solid black;
+ 
+    
+}
+
+.content img
+{
+    width: 80%;
+  
+}
+
+.searchbox
+{
+    width: 250px;
+    border: 2px solid black;
+    padding: 2px;
+    float: left;
+}
+
+.nav
+{
+    width: 996px;
+    text-align: center;
+    min-height: 50px;
+    border: 2px solid black;
+}
+
+.results
+{
+    border: 2px solid black;
+    width: 496px;
+    min-height: 500px;
+    float: left;
+}
+
+.personal
+{
+    float: left;
+    width: 230px;
+    border: 2px solid black;
+    margin: 3px;
+   
+
+}
